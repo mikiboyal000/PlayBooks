@@ -20,7 +20,7 @@
     "framer-motion": "^11.3.22",
     "highlight.js": "^11.9.0",
     "nprogress": "^0.2.0",
-    "posthog-js": "^1.115.0",
+    "posthog-js": "^1.246.0",
     "react": "^18.2.0",
     "react-csv": "^2.2.2",
     "react-dom": "^18.2.0",
